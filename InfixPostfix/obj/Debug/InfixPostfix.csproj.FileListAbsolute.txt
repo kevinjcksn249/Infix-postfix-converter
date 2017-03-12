@@ -1,0 +1,8 @@
+G:\ProgrammingProjects\Visual Studio 2015\Projects\InfixPostfix\InfixPostfix\bin\Debug\InfixPostfix.exe.config
+G:\ProgrammingProjects\Visual Studio 2015\Projects\InfixPostfix\InfixPostfix\obj\Debug\InfixPostfix.csprojResolveAssemblyReference.cache
+G:\ProgrammingProjects\Visual Studio 2015\Projects\InfixPostfix\InfixPostfix\bin\Debug\InfixPostfix.exe
+G:\ProgrammingProjects\Visual Studio 2015\Projects\InfixPostfix\InfixPostfix\bin\Debug\InfixPostfix.pdb
+G:\ProgrammingProjects\Visual Studio 2015\Projects\InfixPostfix\InfixPostfix\bin\Debug\ConsoleMenus.exe
+G:\ProgrammingProjects\Visual Studio 2015\Projects\InfixPostfix\InfixPostfix\bin\Debug\ConsoleMenus.pdb
+G:\ProgrammingProjects\Visual Studio 2015\Projects\InfixPostfix\InfixPostfix\obj\Debug\InfixPostfix.exe
+G:\ProgrammingProjects\Visual Studio 2015\Projects\InfixPostfix\InfixPostfix\obj\Debug\InfixPostfix.pdb
